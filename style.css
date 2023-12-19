@@ -420,3 +420,20 @@
     }
     
   }
+
+  footer {
+    background-color: #0c0c0c;
+    color: #fff;
+    padding: 20px 0;
+    text-align: center;
+  }
+  
+  footer p {
+    margin: 0;
+  }
+  
+  .container {
+    max-width: 1200px;
+    margin: 0 auto;
+  }
+  
